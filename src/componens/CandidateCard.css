@@ -1,0 +1,33 @@
+.candidate-card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 16px;
+    text-align: center;
+    width: 200px;
+    margin: 8px;
+    background-color: #fff;
+    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.1);
+}
+  
+  .candidate-number, .candidate-batch {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+}
+  
+  .candidate-photo {
+    width: 100%;
+    border-radius: 50%;
+    height: fit-content;
+    
+}
+  
+  .candidate-name {
+    margin-top: 8px;
+    font-size: 20px;
+    font-weight: bold;
+}
+h1{
+    font-size: 20px;
+}
+  
